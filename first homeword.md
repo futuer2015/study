@@ -19,6 +19,5 @@ It is obvious that you will have one in no time.Only in this way can you equally
 
 There is no dying that QQ is a useful tool,but in my opinion,there also many thing QQ need to change. first of all,QQ should do more to protect our personal information.because nowadays there are so many conpany are collecting our personal information.what's more ,through there are so many chinese use QQ,but people in other part of word 
 rare use it.As a english major students I should try my best to catch evey chance to communication with native speakers.I need to meet native speaker in QQ.
-
 With more than 800 million registered users and 300 million monthly active users ,QQ is both the most popular instant messenger service and the largest online community in the world.
 In China, QQ is not just a way to communicate—it's a phenomenon, a part of culture, and also a daily necessity.
