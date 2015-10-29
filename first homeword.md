@@ -1,11 +1,11 @@
 #A popular chat tools-----QQ
 
 ##徐泽深201434076
-Tencent QQ (hereinafter referred to as "QQ") is a development of the tencent company based on the Internet instant messaging (IM) software. Support  online chat, video calls, point-to-point breakpoint continuingly files, share files, network hard disk, custom panel, QQ, E-mail and other functions, and can be connected to a variety of communication terminal. The logo of QQ is a small penguin wearing a red scarf.
-QQ have already covered Microsoft Windows, OS X, Android, iOS, Windows Phone and other mainstream platform. so that we can easily use it in a variety of  Electronic products.
+Tencent QQ (hereinafter referred to as "QQ") is a development of the Tencent company based on the Internet instant messaging (IM) software. It supports  online chat, video calls, point-to-point breakpoint continuingly files, share files, network hard disk, custom panel, QQ, E-mail and other functions, and can be connected to a variety of communication terminals. The logo of QQ is a small penguin wearing a red scarf.
+QQ has already covered Microsoft Windows, OS X, Android, iOS, Windows Phone and other mainstream platforms, so that we can easily use it in a variety of  Electronic products.
 
-  In 1999.2.Tencent company fond QQ，in the same year，QQ soon have more than 6，000 users.as time pass by,QQ’s users increase rapidly.In 2000 QQ can be used in Mobile phone.then the user of it increase sharply. No wonder that QQ have more than 
-1,000,000,000 in 2010. so why does QQ have so many users？let me tell you.
+  In 1999.2.Tencent company found QQ.And in the same year，QQ soon had more than 6，000 users.As time passing by,the number of QQ’s users increases rapidly.In 2000, QQ can be used in Mobile phone.Then the number of the users increases more sharply. No wonder that QQ has more than 
+1,000,000,000 in 2010. So why does QQ have so many users？let me tell you.
 
 Frist  Free
 every one could have a QQ without paing anything.in my oponion，this is one of  the most important reasons why people choose QQ.
